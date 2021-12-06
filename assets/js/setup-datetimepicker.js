@@ -1,0 +1,1 @@
+$('#tgl').bootstrapMaterialDatePicker({format : 'DD-MM-YYYY', weekStart : 0, time: false });
